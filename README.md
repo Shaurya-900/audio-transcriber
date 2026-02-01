@@ -15,7 +15,7 @@ A Flask web app that transcribes audio files using Groq's Whisper API
 - **Deployment:** Railway
 
 ## Live Demo
-[Will be deployed on Railway later]
+https://audio-transcriber-production-90e8.up.railway.app/transcribe
 
 ## Setup Locally
 
