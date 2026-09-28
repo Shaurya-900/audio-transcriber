@@ -12,7 +12,7 @@ A Flask web app that transcribes audio files using Groq's Whisper API
 - **Backend:** Flask (Python)
 - **API:** Groq Whisper Large V3    
 - **Frontend:** HTML, CSS, and JavaScript
-- **Deployment:** Railway
+- **Deployment:** Render
 
 ## Live Demo
 https://audio-transcriber-sa9l.onrender.com/transcribe
@@ -25,7 +25,7 @@ git clone https://github.com/Shaurya-900/audio-transcriber.git
 cd audio-transcriber
 ```
 
-2. Insrall dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -43,7 +43,7 @@ python app.py
 
 ## Deployment
 
-Deployed on Railway with automatic deployment from Github.
+Deployed on Render with automatic deployment from Github.
 
 Built as a side project to learn how Flask and Javascript embedded into HTML works
 
